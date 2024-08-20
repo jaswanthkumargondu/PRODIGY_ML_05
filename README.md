@@ -1,4 +1,6 @@
 **Food Recognition and Calorie Estimation Model**
+
+
 _Overview_:
 This project involves the development of a machine learning model designed to accurately recognize food items from images and estimate their calorie content. The goal of this model is to assist users in tracking their dietary intake and making informed food choices by providing detailed nutritional information.
 

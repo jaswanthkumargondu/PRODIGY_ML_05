@@ -1,12 +1,13 @@
-Food Recognition and Calorie Estimation Model
-Overview
+**Food Recognition and Calorie Estimation Model**
+_Overview_:
 This project involves the development of a machine learning model designed to accurately recognize food items from images and estimate their calorie content. The goal of this model is to assist users in tracking their dietary intake and making informed food choices by providing detailed nutritional information.
 
-Features
+_Features_:
 Food Item Recognition: Identifies various food items from input images.
 Calorie Estimation: Estimates the calorie content of recognized food items.
 User-Friendly Interface: Provides a straightforward way to input images and receive nutritional information.
-Technologies Used
+
+_Technologies Used_:
 Programming Languages: Python
 Libraries and Frameworks: TensorFlow, Keras, OpenCV, NumPy
 Tools: Jupyter Notebook, GitHub
